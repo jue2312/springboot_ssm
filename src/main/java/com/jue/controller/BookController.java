@@ -5,7 +5,6 @@ import com.jue.controller.utils.R;
 import com.jue.domain.Book;
 import com.jue.service.impl.BookServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.io.IOException;

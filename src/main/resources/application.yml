@@ -3,13 +3,11 @@ server:
 spring:
   datasource:
     username: root
-    password: 201030
+    password: 3388047303
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/ssm
+    url: jdbc:mysql://dsy:3306/ssm
   banner:
     location: 阿弥陀佛.txt
-
-
 mybatis-plus:
   global-config:
     db-config:

@@ -8,7 +8,10 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-//@RestController
+/**
+ * @author Pride
+ */
+@RestController
 //@RequestMapping("/books")
 public class BookController2 {
 //    @Autowired

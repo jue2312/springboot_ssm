@@ -62,7 +62,6 @@
 
     <build>
         <plugins>
-
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
@@ -78,8 +77,6 @@
                     <mainClass>com.jue.Application</mainClass>
                 </configuration>
             </plugin>
-
-
         </plugins>
     </build>
 
