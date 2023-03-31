@@ -28,7 +28,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>{Application}</mainClass>
+                  <mainClass>{com.jue.Application}</mainClass>
                 </transformer>
               </transformers>
             </configuration>
