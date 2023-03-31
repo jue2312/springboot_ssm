@@ -17,3 +17,4 @@ mybatis-plus:
       id-type: auto #配置自增规则
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #配置日志输出都控制台
+  mapper-locations: classpath:mapper/*.xml

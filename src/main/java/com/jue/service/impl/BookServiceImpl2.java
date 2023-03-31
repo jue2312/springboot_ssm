@@ -9,10 +9,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-@Service
+//@Service
 public class BookServiceImpl2 implements BookService {
     //自动装配
-    @Autowired
+//    @Autowired
     private BookDao bookDao;
 
     /**
